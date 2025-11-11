@@ -24,12 +24,12 @@ function RootLayout({ children }) {
         }, void 0, false, {
             fileName: "[project]/src/app/layout.tsx",
             lineNumber: 16,
-            columnNumber: 7
+            columnNumber: 4
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/layout.tsx",
         lineNumber: 15,
-        columnNumber: 5
+        columnNumber: 3
     }, this);
 }
 }),

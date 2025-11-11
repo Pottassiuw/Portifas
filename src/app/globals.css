@@ -4,36 +4,46 @@
 @tailwind utilities;
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
-html, body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-  overflow-x: hidden;
+html,
+body {
+	font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+	overflow-x: hidden;
+	scroll-behavior: smooth;
 }
 
 .tech-grid {
-  background-image: 
-    linear-gradient(rgba(59, 130, 246, 0.1) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(59, 130, 246, 0.1) 1px, transparent 1px);
-  background-size: 30px 30px;
+	background-image:
+		linear-gradient(rgba(59, 130, 246, 0.1) 1px, transparent 1px),
+		linear-gradient(90deg, rgba(59, 130, 246, 0.1) 1px, transparent 1px);
+	background-size: 30px 30px;
 }
 
 .glow {
-  box-shadow: 0 0 20px rgba(59, 130, 246, 0.3);
+	box-shadow: 0 0 20px rgba(59, 130, 246, 0.3);
 }
 
 .glow-lg {
-  box-shadow: 0 0 30px rgba(59, 130, 246, 0.5);
+	box-shadow: 0 0 30px rgba(59, 130, 246, 0.5);
 }
 
 @keyframes blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0; }
+
+	0%,
+	50% {
+		opacity: 1;
+	}
+
+	51%,
+	100% {
+		opacity: 0;
+	}
 }
 
 .cursor-blink {
-  animation: blink 1s infinite;
+	animation: blink 1s infinite;
 }
