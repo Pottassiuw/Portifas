@@ -1,0 +1,117 @@
+Programação em Microinformática – PORTFÓLIO
+
+Roteiro para criar um Portfólio Acadêmico
+
+1. Plataforma Github Pages ou Vercel
+
+o Portfólio online, plataforma GitHub Pages ou Vercel, criar um site pessoal usando HTML/CSS.
+
+2. Estruture o Portfólio de Forma Lógica
+
+o Introdução: Breve apresentação sobre você, seus objetivos acadêmicos e o que está buscando com o portfólio.
+
+o Currículo: Resumo de sua formação, cursos e certificações.
+
+o Projetos: Destaque os principais projetos acadêmicos, explicando o problema, sua abordagem, tecnologias utilizadas e os resultados.
+
+o Habilidades: Liste suas principais habilidades técnicas e teóricas (Soft Skills).
+
+o Documentos e Trabalhos: Adicione artigos, TCCs, trabalhos de pesquisa ou relatórios relevantes.
+
+o Certificações: Inclua imagens ou PDFs de certificados obtidos em cursos ou eventos relevantes.
+
+o Contato: Finalize com seus dados de contato, links para LinkedIn, GitHub ou outro canal relevante.
+
+3. Destaque seus Principais Projetos
+
+o Inclua descrições detalhadas de projetos que demonstrem suas competências. Use imagens, gráficos ou links para o código (se for aplicável).
+
+o Adicione seções como "Desafios enfrentados" e "Soluções adotadas" para mostrar sua capacidade de resolução de problemas.
+
+4. Organize seu Conteúdo
+
+o Mantenha o design limpo e fácil de navegar.
+
+5. Atualize Regularmente
+
+o O portfólio deve ser um documento vivo, ou seja, você deve atualizá-lo conforme realiza novos trabalhos e adquire novas habilidades.
+
+Exemplo Prático de Estrutura de Portfólio Acadêmico
+
+1. Parte Inicial (Apresentação)
+
+· Nome: João Silva
+
+· Formação: Cursando Desenvolvimento de Software Multiplataforma – Fatec - SJC
+
+· Objetivo: "Sou um estudante de tecnologia apaixonado por desenvolvimento de software e quero me especializar em projetos que envolvam inteligência artificial e análise de dados."
+
+2. Currículo
+
+· Formação Acadêmica:
+
+o Cursando Análise e Desenvolvimento de Sistemas (ADS) – FATEC- SJC (2025-202X)
+
+· Certificados:
+
+o Certificação em Desenvolvimento Web pela Udemy
+
+o Certificação em Python para Data Science pela Coursera
+
+· Competências Técnicas:
+
+o Linguagens: Python, JavaScript, SQL, HTML e CSS
+
+o Frameworks: Node.js, Flask
+
+o Ferramentas: Git, Docker, MySQL, AWS
+
+3. Principais Projetos
+
+· Projeto: Sistema de Gerenciamento de Tarefas (API)
+
+o Descrição: Desenvolvi um sistema completo para gestão de tarefas em equipe, inspirado na plataforma Trello.
+
+o Tecnologias Utilizadas: Node.js, Express, MongoDB, HTML/CSS, JavaScript
+
+o Desafio: Implementar uma funcionalidade de arrastar e soltar (drag-and-drop).
+
+o Solução: Utilizei o micro framework Flask para facilitar a implementação de uma interface Web intuitiva. o Link para o código: GitHub Repository
+
+o Imagens do projeto:
+
+§ (Adicione capturas de tela ou GIFs curtos)
+
+4. Trabalhos Acadêmicos
+
+· Trabalho de Conclusão de Curso (TCC):
+
+o Título: "Aplicação de Machine Learning na Previsão de Séries Temporais"
+
+o Resumo: Este trabalho explora o uso de algoritmos de machine learning para prever tendências em séries temporais, com foco em dados de vendas do e-commerce.
+
+o Link para o trabalho: (Se aplicável)
+
+o Resultados: Consegui atingir uma acurácia de 85% nas previsões usando um modelo de redes neurais recorrentes.
+
+5. Certificados
+
+· Certificação de Especialização em Data Science
+
+o Emitido pela Coursera em setembro de 2023
+
+· Certificado de Participação no Hackathon XPTO 2023
+
+o Conquista: 2º lugar na categoria "Inovação Tecnológica"
+
+6. Contato · LinkedIn: linkedin.com/in/jeancosta4 · GitHub: github.com/jeancosta4
+
+· Email: jeancosta4.@fatec.sp.gov.br
+
+Conclusão
+
+Seu portfólio deve contar sua história acadêmica de maneira envolvente e clara, demonstrando suas habilidades e projetos de forma objetiva. Ao seguir essas dicas e utilizar uma estrutura lógica e visual agradável.
+
+Entrega 1- 14/11
+
+Entrega 2 – 28/11 
